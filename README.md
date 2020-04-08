@@ -1,4 +1,4 @@
-# onTAB Server
+# onTAB Server (RESTful API)
 Server-Side codebase (REST-API) for the onTAB mobile application.
 
 ## View The Front-End

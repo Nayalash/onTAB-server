@@ -17,3 +17,4 @@ This REST API is connected to the onTAB mobile application. It consists of User 
 * [bcryptjs](https://www.npmjs.com/package/request) - Password Hasher
 * [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - JWT (AUTH)
 * [validator](https://www.npmjs.com/package/validator) - User Validation
+
